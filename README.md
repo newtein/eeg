@@ -46,25 +46,44 @@ Dataset Link: https://archive.ics.uci.edu/ml/datasets/eeg+database
 
 
 3.11 : Cross-Correlations across different channels grouped by stimulus in a recording
+
 3.12 : Plotted Correlations using networkx 
+
 3.12 : Observing and Ploting Highest Cross-Correlation Pairs across different channels in every alcohol recording for S1 obj 
+
 3.13 : Observing and Ploting Highest Cross-Correlation Pairs across different channels in every alcohol recording for S1 match 
-3.14 : Observing and Ploting Highest Cross-Correlation Pairs across different channels in every alcohol recording for S1 nomatch 
+
+3.14 : Observing and Ploting Highest Cross-Correlation Pairs across different channels in every alcohol recording for S1 nomatch
+
 3.21 : Observing and Ploting Highest Cross-Correlation Pairs across different channels in every control recording for S1 obj 
+
 3.22 : Observing and Ploting Highest Cross-Correlation Pairs across different channels in every control recording for S1 match 
+
 3.23 : Observing and Ploting Highest Cross-Correlation Pairs across different channels in every control recording for S1 nomatch 
+
 3.3 : Observing that Y and nd is most Correlated
 
 ### Section 4 - Hypothesis Testing
 4 : Hypothesis Testing 
+
 4.1 : Restructuring Dataset to accommodate mean, std and number of observations 
+
 4.2 : Defining and calculating Hypothesis 
+
 4.21 : Hypothesis testing across S1 obj and Analyzing the results 
+
 4.22 : Hypothesis testing across S1 match and Analyzing the results 
+
 4.23 : Hypothesis testing across S1 nomatch and Analyzing the results 
+
 4.3 : Common accpeted and rejected channels after Hypothesis Test of all 122 recordings 
+
 4.41 : Correlation between stimulus of Alcohol 
+
 4.42 : Correlation between stimulus of Control 
+
 4.43 : Correlation between S1 obj 
+
 4.44 : Correlation between s2 match 
+
 4.45 : Correlation between s2 nomatch
