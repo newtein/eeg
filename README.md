@@ -7,6 +7,10 @@ Published Web-Page is available <a href="https://newtein.github.io/eeg/" target=
 
 Dataset Link: https://archive.ics.uci.edu/ml/datasets/eeg+database
 
+### <a href="https://github.com/newtein/eeg"> SOUTIONS </a>
+1) iPynb format: eeg_full.ipynb
+2) HTML format: eeg_full.html
+
 ## Index
 ### Initiating
 0 : Unzipping of Nested Dataset using os 
