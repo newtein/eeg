@@ -12,31 +12,31 @@ Published Web-Page is available <a href="https://newtein.github.io/eeg/" target=
 <center>
     <img src='images/Fig_1.png'/>
     <img src='images/f1_info.png'/>
-<center>
+</center>
 
 <center>
     <img src='images/Fig_2.png'/>
     <img src='images/f2_info.PNG'/>
-<center>
+</center>
 
 ## Connections derived from cross-correlations
 <center>
     <img src='images/Fig_3.jpg'/>
     <img src='images/f3_info.PNG'/>
-<center>
+</center>
 
 ## Activation
 <center>
     <img src='images/Fig_4.png'/>
     <img src='images/f4_info.PNG'/>
-<center>
+</center>
 
 ## Frequency-band Analysis: Dissolution into Alpha, Beta, Gamma, Theta and Delta waves
 ### Activation of Alpha waves
 <center>
     <img src='images/Fig_5.png'/>
     <img src='images/f4_info.PNG'/>
-<center>
+</center>
 Similar analysis is performed over Beta, Gamma, Theta and Delta waves.
 
 ## Publication
