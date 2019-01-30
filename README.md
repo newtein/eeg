@@ -21,7 +21,7 @@ Published Web-Page is available <a href="https://newtein.github.io/eeg/" target=
 
 ## Connections derived from cross-correlations
 <center>
-    <img src='images/Fig_3.png'/>
+    <img src='images/Fig_3.jpg'/>
     <img src='images/f3_info.PNG'/>
 <center>
 
